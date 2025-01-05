@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "username": "ban",
+        "display_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041a.",
+        "password_hash": "bab1782bf020da17fc61fb6ab80f67f020c2a9fd7af026b45f71e2bf5c3de9fa",
+        "email": "ak@blazer.net",
+        "cash": 996599.0,
+        "money": 1000000.0,
+        "role": 255,
+        "verifyed": true,
+        "date_creation": 1735592400
+    },
+    {
+        "id": 2,
+        "username": "vane444kin",
+        "display_name": "\u0418\u0432\u0430\u043d \u041a.",
+        "password_hash": "fa428825f1ce0a00cdfa618da741075efb653a42702edb441b4e3fe7de8199cf",
+        "email": "navitellivan@gmail.com",
+        "cash": 100.0,
+        "money": 1000.0,
+        "role": 0,
+        "verifyed": true,
+        "date_creation": 1735592400
+    }
+]
